@@ -1,4 +1,4 @@
-# LED-Control-and-Management-System
+# Embedded Real-Time LED System
 
 This Arduino project is a real-time embedded systems that utilizes the Arduino FreeRTOS to create a robust LED control and management system. Designed for multitasking, this system allows for concurrent control of multiple LEDs and input handling, demonstrating an efficient use of FreeRTOS capabilities such as tasks, queues, and semaphores.
 
