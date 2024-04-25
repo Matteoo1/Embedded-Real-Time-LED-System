@@ -47,3 +47,7 @@ The project is structured into several task files, each encapsulating specific f
 - **Task Files for LED Operations:** Handle on/off states and brightness control.
 - **Interrupt Service Routines:** Manage asynchronous events like button presses.
 - **Utility Tasks:** Perform background operations such as monitoring or adjusting settings.
+
+## Image of the arduino used in the project
+<img width="670" alt="image" src="https://github.com/mohamadd10/LED-Control-and-Management-System/assets/119814738/eda0c95d-abf0-47fd-a33b-67173d37ca1b">
+
